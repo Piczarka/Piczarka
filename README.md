@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piczarka&label=Profile%20views&color=0e75b6&style=flat" alt="piczarka" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pieczarkaaaaa" target="blank"><img src="https://img.shields.io/twitter/follow/pieczarkaaaaa?logo=twitter&style=for-the-badge" alt="pieczarkaaaaa" /></a> </p>
+<p align="left"> <a href="https://instagram.com/pieczarka.a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pieczarkaaaaa" /></a> </p>
 
 - 🌱 I’m currently learning **C#**
 
